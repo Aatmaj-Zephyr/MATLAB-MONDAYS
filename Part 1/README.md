@@ -63,7 +63,6 @@ For any suggestions or doubts, please comment on the [comment section on dev.to]
 Also, you can gmail me for any suggestion or help 🙌
 
 [![LinkedIn][1.2]][1]
-
 [![Gmail][2.2]][2]
 
 
