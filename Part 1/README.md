@@ -61,7 +61,9 @@ _____
 😪Yes, I know learning MATLAB might be a bit of bore🙄...But never mind, no pain no gain💪🏻
 For any suggestions or doubts, please comment on the [comment section on dev.to](https://dev.to/aatmaj/matlab-mondays-crash-course-part-1-3o80), and I will be happy to help 🙂 🎗️ Follow me for updates...
 Also, you can gmail me for any suggestion or help 🙌
+
 [![LinkedIn][1.2]][1]
+
 [![Gmail][2.2]][2]
 
 
