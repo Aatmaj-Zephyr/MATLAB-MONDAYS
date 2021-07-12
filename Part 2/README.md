@@ -1,4 +1,4 @@
-# MATLAB MONDAYS💥- Crash Course part-2
+# [MATLAB MONDAYS💥- Crash Course part-2](https://dev.to/aatmaj/matlab-mondays-crash-course-part-2-2ol1)
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/matlab-mondays-crash-course-part-2-2ol1)
 
