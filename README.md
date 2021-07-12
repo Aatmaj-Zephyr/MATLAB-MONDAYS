@@ -18,3 +18,9 @@ Among these options, I would however advise two alternatives✋- Python (with sc
 However one point of advantage 🪔 is that the syntax of MATLAB is very similar to that of GNU Octave 🌈, so in case you want to proceed your research there🥕, you might find this course of advantage.🌞
 
 ⭐Star this repo 🤩 and follow me for updates!🙂 👍 💥
+
+
+____
+- [MATLAB MONDAYS💥- Crash Course part-1](https://dev.to/aatmaj/matlab-mondays-crash-course-part-1-3o80)
+- [MATLAB MONDAYS💥- Crash Course part-2](https://dev.to/aatmaj/matlab-mondays-crash-course-part-2-2ol1)
+- [MATLAB MONDAYS💥- Crash Course part-3](https://dev.to/aatmaj/matlab-mondays-crash-course-part-3-414k)
