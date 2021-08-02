@@ -26,3 +26,4 @@ ____
 - [MATLAB MONDAYS💥- Crash Course part-3](https://dev.to/aatmaj/matlab-mondays-crash-course-part-3-414k)
 - [MATLAB MONDAYS💥- Crash Course part-4](https://dev.to/aatmaj/matlab-mondays-crash-course-part-4-2c43)
 - [MATLAB MONDAYS💥- Crash Course part-5](https://dev.to/aatmaj/matlab-mondays-crash-course-part-5-pm6)
+- [MATLAB MONDAYS💥- Crash Course part-6](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c)
