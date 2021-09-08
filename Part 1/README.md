@@ -53,8 +53,6 @@ The variables declared are located at the left bottom side of the page. (WORKSPA
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jgrt0mzigicavtbg2il.png)
   
 
-
-
 *to be continued....😏*
 _____
 
