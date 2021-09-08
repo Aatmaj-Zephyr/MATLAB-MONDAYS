@@ -35,9 +35,9 @@ Similer to many languages, too small or too large values like the last one are d
 
  MATLAB operators follow this order-
 > 1) Parenthesis
-2) Exponentiation
-3) Product and Division
-4) Addition and Subtraction
+> 2) Exponentiation
+> 3) Product and Division
+> 4) Addition and Subtraction
 
 So for complicated calculations, it is important to specify the brackets.
 
