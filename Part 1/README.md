@@ -34,7 +34,7 @@ Adding a semicolon at the end of the statement prevents output from being displa
 Similer to many languages, too small or too large values like the last one are displayed using scientific notation.
 
  MATLAB operators follow this order-
->1) Parenthesis
+> 1) Parenthesis
 2) Exponentiation
 3) Product and Division
 4) Addition and Subtraction
