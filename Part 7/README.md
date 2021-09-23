@@ -14,7 +14,7 @@ Friends, today is the last lecture of the series MATLAB MONDAYS. Today let us su
 
 - [Part 5](https://dev.to/aatmaj/matlab-mondays-crash-course-part-5-pm6) We checked out how to operate on matrices in MATLAB. Then we had a look at matrix multiplications Matrix multiplication can be done easily by just multiplying the two together. Many times we need to find mean, mode or median of a vector. Such a statistical analysis of the data can be done easily in MATLAB using inbuilt functions.
 
-- [Part 6](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c) This part was reserved for accessing vectors and matrices. Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements. Similarly we can easily acess matrices.
+- [Part 6](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c) This part was reserved for accessing vectors and matrices. Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements. Similarly we can easily access matrices.
 
 ____
 So friends, this marks the end of our course. If any among you feel that anything is remaining to be taught, or have any suggestions, doubts etc, please post in the [comments on dev.to](https://dev.to/aatmaj/matlab-mondays-crash-course-part-7-k5l)
