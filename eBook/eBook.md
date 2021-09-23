@@ -1,5 +1,24 @@
+<p align=center><img src="https://user-images.githubusercontent.com/83284294/134473703-d9ae9e5c-66b5-4b85-a550-de31ce00bbcb.jpg"></img></p>
+
 # MATLAB CRASH COURSE
+## A quickstart guide to master MATLAB basics
+### _by Aatmaj-Zephyr_
+
+<div style="page-break-after: always;"></div>
+
+# MATLAB CRASH COURSE
+
+### _Forward_
 This book covers all essential basics of MATLAB along with relevant code examples. This book is a quickstart guide towards learning MATLAB and not a comprehensive reference encyclopedia. This book focuses more on speed and pace rather than technical completeness.
+
+MATLAB is very easiy to learn language. Using this book, you can master MATLAB in at most three hours. This book is designed in such a manner that it will give you a very clear idea of what MATLAB is and help you cover most of the basics in a very short span of time.
+
+ Before you proceed to learn MATLAB, however I would like to share a few words of caution.MATLAB is neither free nor open. Unless you are a student affiliated to any university 
+ MATLAB might not be the best fit for you. However, there are good alternatives to MATLAB. Among them options, I would  advise two alternatives- Python (with scientific add-ons) and the Julia language. Julia is a better alternative to MATLAB with syntax very similar to it. However one point of advantage of learning MATLAB is that the syntax of MATLAB is very similar to that of GNU Octave, a free alternative to MATLAB. 
+ 
+ I hope that you will find the contents of this book at your advantage.
+ 
+
 **Prerequisites-** Basic knowlede of programming. (Variables, Control statements, etc)
 
 <div style="page-break-after: always;"></div>
