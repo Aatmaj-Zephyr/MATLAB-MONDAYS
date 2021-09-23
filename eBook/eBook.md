@@ -493,5 +493,134 @@ ans =
 ```
 <div style="page-break-after: always;"></div>
 
-## Chapter Six
+## Chapter Six Acessing Vector Elements
 
+Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements.
+
+
+**Accessing vector elements**-
+
+We can access and the vector elements as shown in the example
+```MATLAB
+>> x=[1,2,3,4,0,6];
+>> x(5)
+
+ans =
+
+     0
+
+>> x(5)=5;
+>> x
+
+x =
+
+     1     2     3     4     5     6
+```
+
+MATLAB also allows us to access many elements at once. The result is a 'n' element vector
+```MATLAB
+>> x=[2,4,6,8];
+>> y=x([2,3])
+
+y =
+
+     4     6
+>> y=x([1,3,4])
+
+y =
+
+     2     6     8
+```
+An alternative may be 
+```MATLAB
+>> x=[2,4,6,8];
+>> data=1:3;
+>> y=x(data)
+
+y =
+
+     2     4     6
+```
+
+We can acess the last element of thee vector using the "end" keyword.
+
+```MATLAB
+>> x=[2,4,6,8];
+>> x(end)
+
+ans =
+
+     8
+
+>> x(end-1)
+
+ans =
+
+     6
+```
+
+**Accessing matrix values**-
+Matrix values require both the row and the column number to be accessed
+```MATLAB
+>> x=rand(5,6)
+
+x =
+
+    0.9058    0.2785    0.9706    0.4218    0.0357    0.7431
+    0.1270    0.5469    0.9572    0.9157    0.8491    0.3922
+    0.9134    0.9575    0.4854    0.7922    0.9340    0.6555
+    0.6324    0.9649    0.8003    0.9595    0.6787    0.1712
+    0.0975    0.1576    0.1419    0.6557    0.7577    0.7060
+
+>> x(2,3)
+
+ans =
+
+    0.9572
+```
+
+We can also extract a whole matrix using the syntax
+x(rows,columns), where rows is a array of rows while columns is array of columns. Here is are two examples which will make things very clear.
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m8g4lgx1u1uhkgzekiok.png)
+
+Note that 2:4 means [2,3,4] while comma separated 2,4 means [2,4]
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/566x0w1q2fhks3yjeljr.png)
+ 
+ In order to take an entire column or row, we can just place a semicolon ':' for it. Here is an example-
+```MATLAB
+>> x=rand(5,5)
+
+x =
+
+    0.8314    0.4168    0.0155    0.1981    0.0527
+    0.8034    0.6569    0.9841    0.4897    0.7379
+    0.0605    0.6280    0.1672    0.3395    0.2691
+    0.3993    0.2920    0.1062    0.9516    0.4228
+    0.5269    0.4317    0.3724    0.9203    0.5479
+
+>> x(:,3)
+
+ans =
+
+    0.0155
+    0.9841
+    0.1672
+    0.1062
+    0.3724
+
+>> x(3,:)
+
+ans =
+
+    0.0605    0.6280    0.1672    0.3395    0.2691
+```
+
+<div style="page-break-after: always;"></div>
+## Summary of the Book
+
+- **Chapter One** : We had an introduction to what MATLAB is and where is it used. MATLAB stands for MATrix LABoratory. MATLAB is a scientific programming language used for simulations and data driven research. We also wrote our hello world code in this part. After that, we learnt about MATLAB variables. We can declare variables using the '=' sign, that is the assignment operator.
+- **Chapter Two**: We learnt about some predefined functions in MATLAB like `rand()` `scatter()` and `min()`. MATLAB contains loads of other functions, whose documentation can be found out on https://in.mathworks.com/help/matlab/elementary-math.html?s_tid=CRUX_lftnav. After that we learnt control statements in MATLAB including the syntax for the while loop, for loop and if-else-elseif statements.
+- **Chapter Three**: We studied  row and column vectors in MATLAB. Sometimes, however we may require to create row or column vectors with large number of equidistant points. We learnt how to do that automatically in MATLAB. At the end we also learnt how to take the transpose of any matrix.
+- **Chapter Four**: We studied  row and column vectors in MATLAB. Sometimes, however we may require to create row or column vectors with large number of equidistant points. We learnt how to do that automatically in MATLAB. At the end we also learnt how to take the transpose of any matrix.
+- **Chapter Five**: We checked out how to operate on matrices in MATLAB. Then we had a look at matrix multiplications Matrix multiplication can be done easily by just multiplying the two together. Many times we need to find mean, mode or median of a vector. Such a statistical analysis of the data can be done easily in MATLAB using inbuilt functions.
+- **Chapter Six**: This part was reserved for accessing vectors and matrices. Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements. Similarly we can easily access matrices.
