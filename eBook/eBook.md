@@ -3,7 +3,9 @@ This book covers all essential basics of MATLAB along with relevant code example
 **Prerequisites-** Basic knowlede of programming. (Variables, Control statements, etc)
 
 <div style="page-break-after: always;"></div>
+
 ## Chapter One: Introduction
+
 **What is MATLAB?**- MATLAB stands for MATrix LABoratory. MATLAB is a scientific programming language.✨ It is mainly used for solving mathematical equations and data-visualization. Complicated systems can be better understood with this software. Speed and ease of writing are the salient features of MATLAB.
 Professor Cleve Moler designed MATLAB. He did so with an intention to reduce heavy FORTRAN coding. The aim of the language was making an engineer friendly syntax.
 
@@ -47,7 +49,9 @@ The variables declared are located at the left bottom side of the page. (WORKSPA
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jgrt0mzigicavtbg2il.png)
 
 <div style="page-break-after: always;"></div>
+
 ## Chapter Two: Inbuilt Functions and Control Statements
+
 **In built Functions in MATLAB**
 
 MATLAB supports standered mathematical functions like sin, cos, log, exponentiation, square root, and many more.
@@ -157,6 +161,7 @@ end
 > Note that % operator in python is replaced by the mod() function in MATLAB. mod(a,b) is equivalent to a%b
 
 <div style="page-break-after: always;"></div>
+
 ## Chapter Three: Row and Column Vectors
 
 **Row and Column Vectors in MATLAB**
@@ -244,7 +249,9 @@ x =
 ```
 
 <div style="page-break-after: always;"></div>
+
 ## Chapter Four: Matrices in MATLAB
+
 **Making matrices in MATLAB**
 We will now learn how to create Matrices in MATLAB.
 Similer to row vectors, the elements in a row are separated by a ',' and column by a ';'. First, type in the values for the first column separated by commas. When the row ends, type a semicolon and the proceed on to the next row. Repeat until done, and end with the square brackets.
@@ -348,7 +355,9 @@ x =
 ```
 
 <div style="page-break-after: always;"></div>
+
 ## Chapter Five: Calculations on Matrices
+
 **Matrix calculations**
 We may at times require to manipulate the individual elements of matrices. We can make these matrix calculations similar to variable operations.
 Example we want to make a matrix y such that each element in y is twice that of each in x. We can do so by y=2*x
