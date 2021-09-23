@@ -13,6 +13,8 @@ Similer to row vectors, the elements in a row are separated by a ',' and column 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6tr3x2ne4hn7pqq72coj.png)
 
 Mismatch of elements in rows or columns generates this error-
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aa6dzbd8321mh79qhlia.png)
  
 **Fusing two Matrices**
