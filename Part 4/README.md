@@ -1,7 +1,7 @@
 # MATLAB MONDAYS💥- Crash Course part-4
 
 
-Originallly published on the dev.to platform [here]https://dev.to/aatmaj/matlab-mondays-crash-course-part-4-2c43)
+Originallly published on the dev.to platform [here](https://dev.to/aatmaj/matlab-mondays-crash-course-part-4-2c43)
 
 Welcome all! ❤️‍🔥 This Monday let us learn all about matrices in MATLAB, and how to generate them🤟
 ---
