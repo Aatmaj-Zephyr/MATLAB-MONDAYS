@@ -625,6 +625,7 @@ ans =
 ```
 
 <div style="page-break-after: always;"></div>
+
 ## Summary of the Book
 
 - **Chapter One** : We had an introduction to what MATLAB is and where is it used. MATLAB stands for MATrix LABoratory. MATLAB is a scientific programming language used for simulations and data driven research. We also wrote our hello world code in this part. After that, we learnt about MATLAB variables. We can declare variables using the '=' sign, that is the assignment operator.
