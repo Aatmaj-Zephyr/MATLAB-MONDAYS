@@ -57,6 +57,7 @@ The variables declared are located at the left bottom side of the page. (WORKSPA
 MATLAB supports standered mathematical functions like sin, cos, log, exponentiation, square root, and many more.
 However, unlike many languages, input for these functions can be an integer or even an matrix vectors.
 Many MATLAB functions take in multiple inputs and return multiple outputs. eg. the min function can take in an array of numbers and output both, the smallest number and the position of the smallest number.
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ppw8z00p8mjxwob6hnd.png)
 
 Similarly, the function plot takes in two matrices and plots their values. The plot connects all the points represented by the x,y pairs.
