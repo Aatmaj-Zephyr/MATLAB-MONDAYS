@@ -18,8 +18,8 @@ MATLAB is very easiy to learn language. Using this book, you can master MATLAB i
  
  I hope that you will find the contents of this book at your advantage.
  
-
-**Prerequisites-** Basic knowlede of programming. (Variables, Control statements, etc)
+____
+**Prerequisites-** Basic knowledge of programming. (Variables, Control statements, etc)
 
 <div style="page-break-after: always;"></div>
 
