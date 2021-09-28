@@ -57,7 +57,7 @@ z =
 
 ```
 
-> When dealing with two matrices, always add a dot before operators for making "element wise operators "-.*" , "./" and ".^". This is because normal operators are reserved for matrix operations.
+> When dealing with two matrices, always add a dot before operators for making element wise operators `.*` , `./` and `.^`. This is because normal operators are reserved for matrix operations.
 
 Note, the matrix operations are only valid for matrices of same sizes and dimensions. If this is not followed, this error pops up-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8gsr3uziiwsdoxvc6617.png)
