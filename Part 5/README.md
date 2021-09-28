@@ -6,6 +6,8 @@ Welcome all! ❤️‍🔥 This Monday let us learn about statistical functions 
 ---
 _____
 **Matrix calculations**
+
+
 We may at times require to manipulate the individual elements of matrices. We can make these matrix calculations similar to variable operations.
 Example we want to make a matrix y such that each element in y is twice that of each in x. We can do so by y=2*x
 
@@ -64,10 +66,14 @@ Note, the matrix operations are only valid for matrices of same sizes and dimens
 
 Here is an example of the application of what we learnt so far-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oh4f3ru6vxrkugra8vmu.png)
- Try plotting a few equations yourself....
+
+
+Try plotting a few equations yourself....
 
 
 **Matrix multiplication**
+
+
 Matrix multiplication can be done easily by just multiplying the two together. However, be careful that the dimensions for  matrix multiplication match.
 
 ```MATLAB
@@ -98,6 +104,8 @@ ans =
 ____
 
 **Statistical functions**
+
+
 Many times we need to find mean, mode or median of a vector. Such a statistical analysis of the data can be done easily in MATLAB using inbuilt functions.
 The mean() function can find the mean of the vector elements, while median() returns the central number.
 The mode() gives out the mode of the vector, while var() and std() return the variance and the standered deviations respectively. rms() indicated the root mean square.
