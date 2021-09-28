@@ -8,6 +8,7 @@ Welcome all! ❤️‍🔥 Let us learn about row and column vectors in MATLAB.�
 _____
 
 **Row and Column Vectors in MATLAB**
+
 We can create row vector in matlab by this syntax-
 ```MATLAB
 x=[-2,-1,0,-1,-2]
