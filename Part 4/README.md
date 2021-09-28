@@ -30,7 +30,7 @@ For horizontal concatenation, use the syntax c=[a,b]
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0l0pjrk9v054nmo2v6rw.png)
 
-> Note, For horizontal Concatenation, the number of rows for both matrices must be the same, and for vertical concatenation, the number of columns must be equal. If tis rule is violated, Concatenation error is generated. 
+> Note, For horizontal Concatenation, the number of rows for both matrices must be the same, and for vertical concatenation, the number of columns must be equal. If this rule is violated, Concatenation error is generated. 
 
 **Matrix generation functions**
 There are a few matrix generation functions in MATLAB like eye() this function generates an Identity matrix of the size we input.
