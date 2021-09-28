@@ -34,7 +34,7 @@ z =
 ```
 However, when we multiply the two, an error occurs.
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxg91fqmrc1y8dy3tblo.png)
-This is because the 8 operator means matrix multiplication and not element wise multiplication. For element wise multiplication, we use ".*". Similar for division "./" and exponentiation ".^"
+This is because the 8 operator means matrix multiplication and not element wise multiplication. For element wise multiplication, we use `.*`. Similar for division `./` and exponentiation `.^`
 
 ```MATLAB
 >> z=y.*x
