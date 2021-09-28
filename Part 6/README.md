@@ -52,7 +52,7 @@ y =
      2     4     6
 ```
 
-We can acess the last element of thee vector using the "end" keyword.
+We can access the last element of thee vector using the "end" keyword.
 
 ```MATLAB
 >> x=[2,4,6,8];
