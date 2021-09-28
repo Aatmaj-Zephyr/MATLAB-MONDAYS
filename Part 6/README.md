@@ -90,7 +90,7 @@ ans =
 ```
 
 We can also extract a whole matrix using the syntax
-x(rows,columns), where rows is an array of rows while columns is array of columns. Here is are two examples which will make things very clear.
+x(rows,columns), where rows is an array of rows while columns is array of columns. Here are two examples that will make things very clear.
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m8g4lgx1u1uhkgzekiok.png)
 
 Note that 2:4 means [2,3,4] while comma separated 2,4 means [2,4]
