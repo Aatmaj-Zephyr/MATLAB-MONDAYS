@@ -2,7 +2,7 @@
 
 Originally published on the Dev.to patform [here](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c)
 
-Welcome all! ❤️‍🔥 This Monday let us learn about Acessing vector elements in MATLAB.🤟
+Welcome all! ❤️‍🔥 This Monday let us learn about Accessing vector elements in MATLAB.🤟
 ---
 _____
 Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements.
