@@ -108,7 +108,7 @@ ____
 
 Many times we need to find mean, mode or median of a vector. Such a statistical analysis of the data can be done easily in MATLAB using inbuilt functions.
 The mean() function can find the mean of the vector elements, while median() returns the central number.
-The mode() gives out the mode of the vector, while var() and std() return the variance and the standered deviations respectively. rms() indicated the root mean square.
+The mode() gives out the mode of the vector, while var() and std() return the variance and the standard deviations respectively. rms() indicated the root mean square.
 Apart from these widely used functions, you will find many more in the MATLAB documentation. 
 
 ```MATLAB
