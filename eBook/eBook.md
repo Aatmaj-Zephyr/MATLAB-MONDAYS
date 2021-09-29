@@ -95,7 +95,7 @@ The variables declared are located at the left bottom side of the page. (WORKSPA
 
 **In built Functions in MATLAB**
 
-MATLAB supports standered mathematical functions like sin, cos, log, exponentiation, square root, and many more.
+MATLAB supports standard mathematical functions like sin, cos, log, exponentiation, square root, and many more.
 However, unlike many languages, input for these functions can be an integer or even an matrix vectors.
 Many MATLAB functions take in multiple inputs and return multiple outputs. e.g. the min function can take in an array of numbers and output both, the smallest number and the position of the smallest number.
 
@@ -512,7 +512,7 @@ ____
 
 Many times we need to find mean, mode or median of a vector. Such a statistical analysis of the data can be done easily in MATLAB using inbuilt functions.
 The mean() function can find the mean of the vector elements, while median() returns the central number.
-The mode() gives out the mode of the vector, while var() and std() return the variance and the standered deviations respectively. rms() indicated the root mean square.
+The mode() gives out the mode of the vector, while var() and std() return the variance and the standard deviations respectively. rms() indicated the root mean square.
 Apart from these widely used functions, you will find many more in the MATLAB documentation. 
 
 ```MATLAB
