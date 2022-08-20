@@ -2,15 +2,16 @@
 
 Originally published on the Dev.to patform [here](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c)
 
-Welcome all! ❤️‍🔥 This Monday let us learn about Accessing vector elements in MATLAB.🤟
----
-_____
-Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements.
+## Welcome all! ❤️‍🔥 This Monday let us learn about Accessing vector elements in MATLAB.🤟
 
+---
+
+Many times, we need to access the elements in middle of a vector or matrix. MATLAB provides easy methods to extract out the elements.
 
 **Accessing vector elements**-
 
 We can access and the vector elements as shown in the example
+
 ```MATLAB
 >> x=[1,2,3,4,0,6];
 >> x(5)
@@ -28,6 +29,7 @@ x =
 ```
 
 MATLAB also allows us to access many elements at once. The result is a 'n' element vector
+
 ```MATLAB
 >> x=[2,4,6,8];
 >> y=x([2,3])
@@ -41,7 +43,9 @@ y =
 
      2     6     8
 ```
-An alternative may be 
+
+An alternative may be
+
 ```MATLAB
 >> x=[2,4,6,8];
 >> data=1:3;
@@ -71,6 +75,7 @@ ans =
 
 **Accessing matrix values**-
 Matrix values require both the row and the column number to be accessed
+
 ```MATLAB
 >> x=rand(5,6)
 
@@ -95,8 +100,9 @@ x(rows,columns), where rows is an array of rows while columns is array of column
 
 Note that 2:4 means [2,3,4] while comma separated 2,4 means [2,4]
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/566x0w1q2fhks3yjeljr.png)
- 
- In order to take an entire column or row, we can just place a semicolon ':' for it. Here is an example-
+
+In order to take an entire column or row, we can just place a semicolon ':' for it. Here is an example-
+
 ```MATLAB
 >> x=rand(5,5)
 
@@ -125,16 +131,15 @@ ans =
     0.0605    0.6280    0.1672    0.3395    0.2691
 ```
 
-_____
+---
+
 That's all for this week. 🏆 Your comments really motivate me, so for any suggestions or doubts, please [comment on dev.to](https://dev.to/aatmaj/matlab-mondays-crash-course-part-6-2c3c) 👇, and I will be happy to help 🙂 🎗️ Follow me for updates...
 Also, you can gmail me for any suggestion or help 🙌
 [![LinkedIn][1.2]][1]
 [![Gmail][2.2]][2]
 
-
-[1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+[1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
